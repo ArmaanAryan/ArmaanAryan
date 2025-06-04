@@ -1,3 +1,9 @@
+## 👋 Hello there!
+
+I'm a CS Junior at Bits Pilani Dubai with a keen interest in Quantitative Finance,Deep Learning and Statistics.
+
+
+
 ### 🧠 Tech Stack
 
 #### 🤖 AI / ML / Research  
