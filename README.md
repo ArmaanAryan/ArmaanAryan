@@ -32,3 +32,12 @@ I'm a CS Junior at Bits Pilani Dubai with a keen interest in Quantitative Financ
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### 📊 GitHub Stats
+![Armaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=monokai)
