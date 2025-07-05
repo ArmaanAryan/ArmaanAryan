@@ -34,7 +34,7 @@ I'm a CS Junior at Bits Pilani Dubai with a keen interest in Quantitative Financ
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAryan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAryan&layout=compact&theme=radical)
 
 
 
